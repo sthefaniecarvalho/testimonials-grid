@@ -5,7 +5,7 @@
 ### Links
 
 - Solution URL: https://github.com/sthefaniecarvalho/testimonials-grid
-- Live Site URL: [https://sthefaniecarvalho.github.io/testimonials-grid/]
+- Live Site URL: https://sthefaniecarvalho.github.io/testimonials-grid/
 ## My process
 
 ### Built with
